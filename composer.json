@@ -1,0 +1,22 @@
+{
+    "name": "victorstack-ai/wp-ai-search-readiness-checker",
+    "description": "Reviews your WordPress site's readiness for AI-powered search engines.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "VictorStackAI"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AISearchReadiness\\": "src/"
+        }
+    }
+}
