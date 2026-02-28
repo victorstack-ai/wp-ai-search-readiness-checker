@@ -2,7 +2,7 @@
     "name": "victorstack-ai/wp-ai-search-readiness-checker",
     "description": "Reviews your WordPress site's readiness for AI-powered search engines.",
     "type": "wordpress-plugin",
-    "license": "GPL-2.0+",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "VictorStackAI"

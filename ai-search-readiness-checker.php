@@ -4,7 +4,7 @@
  * Description: Reviews your WordPress site's readiness for AI-powered search engines based on 9 key steps.
  * Version: 1.0.0
  * Author: VictorStackAI
- * License: GPL-2.0+
+ * License: GPL-2.0-or-later
  */
 
 namespace AISearchReadiness;
