@@ -24,6 +24,8 @@ phpstan.neon.dist
 phpunit.xml
 phpunit.xml.dist
 grumphp.yml
+docker-compose.yml
+README.md
 
 # Project files
 SECURITY.md
